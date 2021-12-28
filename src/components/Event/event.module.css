@@ -1,0 +1,18 @@
+.past-date {
+  color: red;
+}
+
+.event {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.desc {
+  width: 260px;
+  overflow: hidden;
+  word-wrap: break-word;
+}
